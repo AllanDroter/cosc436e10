@@ -9,3 +9,11 @@ public class Main {
         sensorSystem.soundTheAlarm();
     }
 }
+
+// output
+// gates close
+// lights up
+// Surveillance - by the numbers:
+// establish a perimeter
+// train the cameras
+// identify the source
